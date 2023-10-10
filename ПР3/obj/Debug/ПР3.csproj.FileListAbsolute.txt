@@ -1,0 +1,7 @@
+C:\Users\Яр\source\repos\ПР3\ПР3\obj\Debug\ПР3.csproj.AssemblyReference.cache
+C:\Users\Яр\source\repos\ПР3\ПР3\obj\Debug\ПР3.csproj.CoreCompileInputs.cache
+C:\Users\Яр\source\repos\ПР3\ПР3\bin\Debug\ПР3.exe.config
+C:\Users\Яр\source\repos\ПР3\ПР3\bin\Debug\ПР3.exe
+C:\Users\Яр\source\repos\ПР3\ПР3\bin\Debug\ПР3.pdb
+C:\Users\Яр\source\repos\ПР3\ПР3\obj\Debug\ПР3.exe
+C:\Users\Яр\source\repos\ПР3\ПР3\obj\Debug\ПР3.pdb
